@@ -1,7 +1,5 @@
 package com.tnsif.dayone;
 
-import java.util.Scanner;
-
 public class SampleProgram {
 
 	public static void main(String[] args) {
